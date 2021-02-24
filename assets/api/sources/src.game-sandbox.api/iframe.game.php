@@ -1,2 +1,0 @@
-<?php if ( !defined('API_PILOT') ) exit(); ?>
-<iframe src="<?php echo $get_game_data['file'];?>" id="api_game_embed" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
